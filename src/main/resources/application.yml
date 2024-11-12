@@ -1,0 +1,8 @@
+echange_path: /home/webapps/
+icmPath: sRGB_CS_profile.icm
+
+application:
+  token_key: myToken
+
+server:
+  port: 8082
